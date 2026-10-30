@@ -1,5 +1,9 @@
 <div align="center">
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jacqueswolmarans/jacqueswolmarans/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" />
+</div>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Platform+Team+Lead;Kubernetes+%7C+AWS+%7C+Edge+fleets;Computer+vision+at+the+edge;Keeping+GPUs+warm+in+drive-thrus" alt="Typing SVG" />
 
 # Jacques Wolmarans
@@ -49,6 +53,5 @@ location:  Aotearoa New Zealand
 
 [![SRE-CloudHub](https://github-readme-stats.vercel.app/api/pin/?username=jacqueswolmarans&repo=SRE-CloudHub&theme=tokyonight&hide_border=true)](https://github.com/jacqueswolmarans/SRE-CloudHub)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jacqueswolmarans/jacqueswolmarans/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" />
-</div>
+
+
