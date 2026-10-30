@@ -31,27 +31,3 @@ GPU edge servers doing real-time computer vision in quick-service restaurants.
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,linux,ubuntu,python,go,bash,grafana,prometheus,cloudflare,git&perline=14" />
 </p>
 
-### Currently
-
-```yaml
-building:  SRE-CloudHub - hands-on SRE lab on AWS
-learning:  platform patterns for pull-based edge delivery
-ask_me:    k3s on unreliable hardware, ArgoCD at fleet scale, cert rotation
-location:  Aotearoa New Zealand
-```
-
-### Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jacqueswolmarans&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacqueswolmarans&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=jacqueswolmarans&theme=tokyonight&hide_border=true" />
-</div>
-
-### Featured
-
-[![SRE-CloudHub](https://github-readme-stats.vercel.app/api/pin/?username=jacqueswolmarans&repo=SRE-CloudHub&theme=tokyonight&hide_border=true)](https://github.com/jacqueswolmarans/SRE-CloudHub)
-
-
-
