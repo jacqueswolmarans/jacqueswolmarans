@@ -8,7 +8,7 @@
 
 # Jacques Wolmarans
 
-Platform engineering lead in New Zealand. I run cloud infrastructure and a fleet of
+Platform engineer in New Zealand. I run cloud infrastructure and a fleet of
 GPU edge servers doing real-time computer vision in quick-service restaurants.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/REPLACE_ME)
